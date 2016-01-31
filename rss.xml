@@ -4,7 +4,7 @@
         <description><![CDATA[Shawn Fernandez Media Works]]></description>
         <link>https://thegrid.ai/sfmediaworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 23:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 23:22:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sfmediaworks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sfmediaworks/28bb8074-465f-4ca4-987a-3e5aada23cba/index.html</link>
             <guid isPermaLink="false">28bb8074-465f-4ca4-987a-3e5aada23cba</guid>
             <pubDate>Sun, 31 Jan 2016 23:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Part 3 of an adventures series about Logan the Greyhound</p>]]></description>
+            <link>https://thegrid.ai/sfmediaworks/ae6340d4-97f9-46a2-8aa1-457fd0637be7/index.html</link>
+            <guid isPermaLink="false">ae6340d4-97f9-46a2-8aa1-457fd0637be7</guid>
+            <pubDate>Sun, 31 Jan 2016 23:22:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
